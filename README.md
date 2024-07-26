@@ -1,33 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastro</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="form-container">
-        <form action="/submit" method="post" class="form">
-            <h2>Cadastro</h2>
-            <div class="form-group">
-                <label for="name">Nome</label>
-                <input type="text" id="name" name="name" required>
-            </div>
-            <div class="form-group">
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-group">
-                <label for="password">Senha</label>
-                <input type="password" id="password" name="password" required>
-            </div>
-            <div class="form-group">
-                <label for="confirm-password">Confirmar Senha</label>
-                <input type="password" id="confirm-password" name="confirm-password" required>
-            </div>
-            <button type="submit" class="btn">Cadastrar</button>
-        </form>
-    </div>
-</body>
-</html>
+<h1>Jogo do número secreto</h1>
+
+<h2>�� Descrição do projeto</h2>
+<p>Projeto utilizado para cadastrar pessoas.</p>
+
+<h2>�� Funcionalidades</h2>
+<p>O projeto tem como funcionalidade cadastrar pessoas em um banco de dados.</p>
+
+<h2>�� Como os usuários podem utilizar</h2>
+<p>Preenchendo as rubricas com os seus dados.</p>
+
+## �� Tecnologias
+<div>
+<img src=""C:\Users\elizi\OneDrive\Área de Trabalho\Foto Eli\IMG_20211010_173052.jpg"" alt="Autora Elizilene Santos" width="300" height="300">
+<img src=""C:\Users\elizi\Downloads\WhatsApp Image 2024-07-26 at 10.09.50.jpeg"" alt="Co-autora Leandra Reis" width="300" height="300">
+</div>
